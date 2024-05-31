@@ -664,11 +664,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 9d17bf52-d16e-4f1a-b590-8b94c1566394
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: Biosim4 Interface
+  organizationId: lukasskaane
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
