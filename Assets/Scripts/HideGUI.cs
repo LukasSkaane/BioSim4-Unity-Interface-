@@ -8,10 +8,6 @@ public class HideGUI : MonoBehaviour {
     float distance = Screen.width / 3, newPosition;
     public GameObject outerButton;
 
-    public void execute() {
-        
-    }
-
     // Update is called once per frame
     void Update() {
         if (shouldMove) {
@@ -21,7 +17,6 @@ public class HideGUI : MonoBehaviour {
                 shouldMove = !shouldMove;
             }
         }
-
     }
 
     void moveTowardsX(GameObject objToMove) {
